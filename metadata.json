@@ -1,0 +1,8 @@
+{
+  "name": "Remix NIFTY Live Option Trading Dashboard",
+  "description": "Real-time NIFTY options trading analytics dashboard featuring live option chain OI, PCR, GIFT Nifty, Crude Oil, technical signals, and customizable data feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
